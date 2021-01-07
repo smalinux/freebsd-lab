@@ -1,0 +1,22 @@
+# Hello FreeBSD
+
+## Hello, world
+howto start and basic question
+- https://www.reddit.com/r/freebsd/comments/i7nsv1/what_is_the_best_way_to_hack_kernel/
+- 
+
+###### FreeBSD kernel modules sample:
+- https://github.com/ldilley/bsdmod
+
+###### where is official online source code (for freeBSD kernel / tree)
+https://forums.freebsd.org/threads/where-is-official-online-source-code-for-freebsd-kernel-tree.66490/
+
+##### Temp - Google:
+- freebsd kernel developer's manual
+- freebsd hello world kernel module
+- freebsd
+- youtube: freebsd
+- https://www.youtube.com/results?search_query=freebsd+%D8%B4%D8%B1%D8%AD
+
+###### FreeBDD workflow
+- https://stackoverflow.com/questions/49656395/how-to-boot-freebsd-image-under-qemu
